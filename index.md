@@ -1,8 +1,11 @@
 ## Introduction
 
-On March 23, 2020 Oregon Governor Kate Brown ordered Oregonians to [“Stay Home, Save Lives”](https://govstatus.egov.com/or-stay-home-save-lives). An order that initially included the closure of non-essential businesses, and imposed social distancing, that is still impacting the state nine months later on the verge of entering the new year, 2021. 
+On March 23, 2020 Oregon Governor Kate Brown ordered Oregonians to [“Stay Home, Save Lives”](https://govstatus.egov.com/or-stay-home-save-lives). An order that initially included the closure of non-essential businesses, imposed social distancing, encouraged face masks, and is still impacting the state nine months later as businesses continue to alter their business models just to stay afloat. A once thriving industry in Portland, now sees more closures, both permanent and temporary, than any other industry that has been negatively impacted by COVID-19, according to [Yelp](https://www.yelpeconomicaverage.com/business-closures-update-sep-2020.html) . Entering 2021, usually Oregon's slowest business quarter due to the cold weather, frequent rain, and increase in snow storms over the past decade, many Oregonians, especially those who lost their non-essential service industry jobs, are anxiously anticipating what will become of Portland’s restaurant landscape in 2021. 
 
 ### COVID Closures 
+
+
+
 
 <!--
 ## Welcome to GitHub Pages
