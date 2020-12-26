@@ -15,7 +15,7 @@ While this pdf began turning the wheels of what this project could potentially b
 
 With little response from the larger group, Krishna thought it best, and I agreed, to begin only looking at permanent closures.  As I continued my research on the months of closure and the premanatality of closures, a two more questions arose for me:
 
-3. Should we track restaurants that opened (usually where one previously closed) during the pandemic? 
+3. Should we track restaurants that opened (where one previously closed) during the pandemic? 
 4. Should we track the ‘type’ of restaurants that were both closing and opening. 
 
 According to the same [Yelp](https://www.yelpeconomicaverage.com/business-closures-update-sep-2020.html)  article from above, in September 2020 Breakfast and Brunch spots were struggling the hardest, which was an interesting contrast to the types of retail-esqu carry out business model I was seeing opening up in places where restaurants had previously closed. While another page was added to track restaurants opening, the type was still left out as members of the group still hadn’t completed (or even touched) their portion of the Permanent Closure data. While Krishna began playing around with potential map layouts and symbology I couldn’t help but feel as though the resistance to input data was mainly due to a lack of understanding of what was actually going on in the restaurant industry. 
