@@ -1,7 +1,8 @@
-##Introduction
+## Introduction
 
+On March 23, 2020 Oregon Governor Kate Brown ordered Oregonians to [“Stay Home, Save Lives”](https://govstatus.egov.com/or-stay-home-save-lives). An order that initially included the closure of non-essential businesses, and imposed social distancing, that is still impacting the state nine months later on the verge of entering the new year, 2021. 
 
-###COVID Closures 
+### COVID Closures 
 
 <!--
 ## Welcome to GitHub Pages
